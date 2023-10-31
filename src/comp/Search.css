@@ -1,0 +1,12 @@
+input[type="text"]{
+    width: 180px;
+    background: transparent;
+    transition: width 2s ease-in-out;
+}
+input[type="text"]:focus{
+    width: 100%;
+}
+.navbar-brand{
+    font-weight: 900;
+    font-size: 40px;
+}
